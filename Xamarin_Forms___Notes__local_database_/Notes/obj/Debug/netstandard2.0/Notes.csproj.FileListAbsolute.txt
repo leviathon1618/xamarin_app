@@ -1,0 +1,13 @@
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\User\Documents\techtorium\Xamarin_Forms___Notes__local_database_\Notes\obj\Debug\netstandard2.0\Notes.pdb
